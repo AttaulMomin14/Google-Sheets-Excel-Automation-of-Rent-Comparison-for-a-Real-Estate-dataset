@@ -1,0 +1,7 @@
+# Google-Sheets-Excel-Automation-of-Rent-Comparison-for-a-Real-Estate-dataset
+
+**Description:**
+
+- To enhance the functionality of Brikwell's Acquisitions Pipeline Database, the project focused on automating the process of calculating and retrieving rent comparables. This was achieved by creating custom formulas using Apps Script in Google Sheets and VBA in Excel. The custom formulas enabled users to dynamically filter and return data based on criteria such as the proximity of properties to a subject property and a specified range of construction years. The solution provided flexibility by allowing users to select between average data or maximum data, tailored to their specific needs.
+- The automation was built with a focus on being user-friendly and evergreen, ensuring it could be easily integrated into future versions of the database without extensive modification. The use of Apps Script and VBA allowed for the seamless incorporation of complex data handling and calculation capabilities directly within the spreadsheet environments.
+- Deliverables comprised the completed custom formula solutions in both Excel and Google Sheets, capable of automating rent comparisons based on user-defined parameters. Additionally, off-boarding guidance was provided through a video call session and a written user manual, ensuring Brikwell's team could confidently operate and maintain the system. 
